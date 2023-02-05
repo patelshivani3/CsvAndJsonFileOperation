@@ -1,0 +1,26 @@
+[
+  {
+    "FirstName": "Shivani",
+    "LastName": "Patel",
+    "City": "Shahada",
+    "State": "Maharashtra"
+  },
+  {
+    "FirstName": "Sagar",
+    "LastName": "Patel",
+    "City": "vadodra",
+    "State": "Gujrat"
+  },
+  {
+    "FirstName": "Nitesh",
+    "LastName": "Singh",
+    "City": "Delhi",
+    "State": "NewDelhi"
+  },
+  {
+    "FirstName": "Saniya",
+    "LastName": "Dewasi",
+    "City": "Jaipur",
+    "State": "Rajasthan"
+  }
+]
